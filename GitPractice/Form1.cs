@@ -6,5 +6,12 @@ namespace GitPractice
         {
             InitializeComponent();
         }
+        // Define a method to subtracts two integers
+        public static int Subtracts(int a, int b)
+        {
+            return a - b;
+            //
+            //
+        }
     }
 }
